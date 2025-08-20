@@ -1,4 +1,4 @@
-# Dashboards-Power-BI
+# 📊 Dashboards-Power-BI
 
 ### Power BI Dashboards Repository
 
