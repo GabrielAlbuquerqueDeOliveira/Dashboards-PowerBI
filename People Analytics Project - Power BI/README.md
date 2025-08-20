@@ -3,7 +3,8 @@
 ### Project Overview
 
 This project is a Human Resources (HR) dashboard created using Power BI. The main objective is to provide a comprehensive visual analysis of employee data, including current and former employees. 
-In this dashboard, we can visualize clearly very important HR informations, such as: *Turnover percentage, average salary, male and female workers, job satisfaction, age group, position in the company, overtime*. It combines all this information with filters to identify patterns and understand the correlations, *with the main goal to identify the characteristics that most lead to Turnover*.
+In this dashboard, we can visualize clearly very important HR informations, such as: 
+*Turnover percentage, average salary, male and female workers, job satisfaction, age group, position in the company, overtime*. It combines all this information with filters to identify patterns and understand the correlations, *with the main goal to identify the characteristics that most lead to Turnover*.
 
 This dashboard serves as a powerful tool for HR teams and managers to track key metrics, identify trends, and make data-driven decisions regarding talent management.
 
