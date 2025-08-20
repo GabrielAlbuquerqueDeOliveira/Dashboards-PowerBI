@@ -8,7 +8,7 @@ Welcome! This repository serves as a portfolio of the dashboards I have created 
 
 ### Projects
 
-* [**Car Rental Company - Dashboardd**](https://github.com/Seu-NomeDeUsuario/sales-dashboard)
+* [**Car Rental Company - Dashboardd**](https://github.com/GabrielAlbuquerqueDeOliveira/Dashboards-PowerBI/tree/main/Car%20Rental%20Company%20-%20Dashboard)
 * [**People Analytics - Dashboard**](https://github.com/GabrielAlbuquerqueDeOliveira/Dashboards-PowerBI/tree/main/People%20Analytics%20Project%20-%20Power%20BI)
 ---
 
