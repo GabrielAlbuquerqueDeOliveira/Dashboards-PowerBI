@@ -8,6 +8,9 @@ In this dashboard, we can visualize clearly very important HR informations, such
 
 This dashboard serves as a powerful tool for HR teams and managers to track key metrics, identify trends, and make data-driven decisions regarding talent management.
 
+### DataSet
+The dataset used can be found here: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?resource=download&select=WA_Fn-UseC_-HR-Employee-Attrition.csv
+
 ### Key Features
 
 * **Employee Demographics:** Analyze data such as employee distribution by department, job role, age group and sex.
